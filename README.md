@@ -11,3 +11,5 @@ Google Формы
 
 В опросе поучавствовало 57 человек,опрос был составлен преимущественно для молодежи по ныне популярной теме: рэп.
 [ссылка на ответы на вопросы с фильтрами](https://docs.google.com/spreadsheets/d/11Wk-3nWzegvKvhHB55C_o1X6k19cr62GygSm9SCOjgc/edit?usp=sharing) 
+
+[ссылка на задание по таблицам exel] (https://docs.google.com/spreadsheets/d/11Wk-3nWzegvKvhHB55C_o1X6k19cr62GygSm9SCOjgc/edit#gid=1209630000)
